@@ -4,9 +4,17 @@
 package edu.cpp.cs.cs141.prog_assgmnt_3;
 
 /**
- * @author Bick Dig Boi
+ * CS 141: Intro to Programming and Problem Solving
+ * Professor: Edwin Rodr&iacute;guez
  *
+ * Programming Assignment #N
+ *
+ * <description-of-assignment>
+ *
+ * Team #N / (or name if individual)
+ *   <team-member-names-if-team-assignment>
  */
+
 public class Appointments {
 
 }
